@@ -6,4 +6,4 @@ This dataset contains Food Prices data for Uganda, sourced from the World Food P
 
 
 ### Dataset file
-* wfp_food_prices_uga
+* wfp_food_prices_uga.csv
